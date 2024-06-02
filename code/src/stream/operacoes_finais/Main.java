@@ -54,6 +54,13 @@ public class Main {
         System.out.print(mapa);
         System.out.println(" ");
 
+        System.out.print("COLLECT ");
+        List<String> listaString = Arrays.asList("Kleber", "Jose", "Nari", "Roberto", "Joana", "Robson");
+        Map<Character, List<String>> mapString = listaString.stream()
+                .collect(Collectors.groupingBy(e -> e.charAt(0)));
+        System.out.print(mapString);
+        System.out.println(" ");
+
     }
 
     private static void printList(List<?> list) {
