@@ -1,0 +1,32 @@
+
+‡
+java:S3655!"FCall "max.isPresent()" or "!max.isEmpty()" before accessing the value.(ãÍ´­ûÿÿÿÿJ$904e8bbf-b08f-45d9-9be8-602496d96163
+‡
+java:S3655"FCall "min.isPresent()" or "!min.isEmpty()" before accessing the value.(›¶ß×þÿÿÿÿJ$b8716faa-0329-44da-bfa6-ca749aabf26c
+„
+java:S1192%"IDefine a constant instead of duplicating this literal "COLLECT " 4 times.(Ïƒ—[J$737ff7be-322d-49f8-aa1b-ce1934c9259d
+k	java:S106"+Replace this use of System.out by a logger.( ŒÿÿÿÿÿJ$6b79239f-adef-4fe1-8a27-0263aa8aa93b
+k	java:S106"+Replace this use of System.out by a logger.(©žžàûÿÿÿÿJ$3c23371f-0d13-4cee-a0eb-ea00950b1c41
+k	java:S106"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿJ$407aff58-d115-476f-8749-a50e73733f4c
+f	java:S106"+Replace this use of System.out by a logger.(Ä‡èÙJ$bbc7760d-802a-4913-90f3-0b9a9552bea2
+k	java:S106"+Replace this use of System.out by a logger.(›¶ß×þÿÿÿÿJ$26e975f6-c76c-4d87-ab8a-5b607c65d47e
+k	java:S106"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿJ$db3acef4-992b-4ba5-aadb-f12848c4e4b2
+k	java:S106"+Replace this use of System.out by a logger.(ÉË¦âýÿÿÿÿJ$9abc54b4-5c54-49f3-91a5-266ab11b8590
+k	java:S106!"+Replace this use of System.out by a logger.(ãÍ´­ûÿÿÿÿJ$824dea39-4da9-4814-bbed-70ac6eafd79a
+k	java:S106""+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿJ$8b6a2e6c-be18-45b8-a662-426a94e7b29f
+e	java:S106%"+Replace this use of System.out by a logger.(Ïƒ—[J$87e711ee-53e6-489a-95c1-ed5868a67f9a
+¶
+java:S6204("zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹J$1cb037c1-6112-4ce8-8909-93c50d716b26
+k	java:S106*"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿJ$29583c77-d5db-4513-a9d3-a0ea16b5a6e9
+e	java:S106,"+Replace this use of System.out by a logger.(Ïƒ—[J$edaf2dbf-2f73-4c43-b252-7ba130876e76
+k	java:S1060"+Replace this use of System.out by a logger.(¿¤ ÈþÿÿÿÿJ$c2555941-8c8f-4779-a32f-4ee87d281841
+k	java:S1061"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿJ$57253c9e-0210-4ec1-b7ea-b6e08a0d2c4c
+e	java:S1063"+Replace this use of System.out by a logger.(Ïƒ—[J$1f8b7b69-bae5-4ab8-bb20-ab3068e37ad0
+k	java:S1066"+Replace this use of System.out by a logger.(£“öñûÿÿÿÿJ$2468ed29-96c3-4268-9bc2-f83c9bba1862
+k	java:S1067"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿJ$714def25-4567-40cd-a77f-19c0ef1a912c
+e	java:S1069"+Replace this use of System.out by a logger.(Ïƒ—[J$ece272d5-3617-4abe-abee-c1546efbe6ed
+k	java:S106="+Replace this use of System.out by a logger.(Ç²·‚ÿÿÿÿÿJ$1b9a2e64-2b80-451b-83fb-d094c38ca18b
+k	java:S106>"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿJ$26b22805-a048-47b3-b3df-e194d851e8c7
+f	java:S106C"+Replace this use of System.out by a logger.(ü À˜J$8e2e10ac-e430-4f4f-bddb-f17ab2d0973c
+p
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”J$7a7e660c-0dfe-4d60-8dd6-5e48f03e17a6
