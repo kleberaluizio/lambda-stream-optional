@@ -25,7 +25,7 @@ public class Main {
         limitAndPrintList(list, 5);
         System.out.println(" ");
 
-        //DISTINCT - Não permite ao stream processar elementos repetidos, develve um stream com dados únicos, exclui suas repetições
+        //DISTINCT - Não permite ao stream processar elementos repetidos, devolve um stream com dados únicos, exclui suas repetições
         //Usa a comparação do equals e do hashcode
         System.out.print("DISTINCT  ");
         distinctedPrintedList(list);
